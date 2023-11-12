@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @real-fbdn
+- 👀 I’m interested in scripting in Python and Lua
+- 🌱 I’m currently learning Lua & Python
+- 💞️ I’m looking to collaborate on Grabbers
+- 📫 How to reach me on disccord, user in bio
